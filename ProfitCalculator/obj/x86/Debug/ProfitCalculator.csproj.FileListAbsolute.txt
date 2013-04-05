@@ -1,0 +1,10 @@
+\\data.adir.hull.ac.uk\home4\441\441811\visual studio 2010\Projects\ProfitCalculator\ProfitCalculator\bin\Debug\ProfitCalculator.exe
+\\data.adir.hull.ac.uk\home4\441\441811\visual studio 2010\Projects\ProfitCalculator\ProfitCalculator\bin\Debug\ProfitCalculator.pdb
+\\data.adir.hull.ac.uk\home4\441\441811\visual studio 2010\Projects\ProfitCalculator\ProfitCalculator\obj\x86\Debug\ResolveAssemblyReference.cache
+\\data.adir.hull.ac.uk\home4\441\441811\visual studio 2010\Projects\ProfitCalculator\ProfitCalculator\obj\x86\Debug\ProfitCalculator.exe
+\\data.adir.hull.ac.uk\home4\441\441811\visual studio 2010\Projects\ProfitCalculator\ProfitCalculator\obj\x86\Debug\ProfitCalculator.pdb
+\\psf\Home\Downloads\ProfitCalculator\ProfitCalculator\obj\x86\Debug\ProfitCalculator.exe
+\\psf\Home\Downloads\ProfitCalculator\ProfitCalculator\obj\x86\Debug\ProfitCalculator.pdb
+\\psf\Home\Downloads\ProfitCalculator\ProfitCalculator\obj\x86\Debug\ProfitCalculator.csprojResolveAssemblyReference.cache
+\\psf\Home\Downloads\ProfitCalculator\ProfitCalculator\bin\Debug\ProfitCalculator.exe
+\\psf\Home\Downloads\ProfitCalculator\ProfitCalculator\bin\Debug\ProfitCalculator.pdb
